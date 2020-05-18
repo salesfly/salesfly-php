@@ -1,4 +1,4 @@
 <?php
 
-define("VERSION", "0.9.1");
+define("VERSION", "1.0.0");
 define("API_BASE_URL", "https://api.salesfly.com");
