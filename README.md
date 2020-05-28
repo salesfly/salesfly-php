@@ -1,14 +1,14 @@
 # salesfly-php
 
-[![Build Status](https://travis-ci.org/salesfly/salesfly-php.svg?branch=master)](https://travis-ci.org/salesfly/salesfly-php)
+<!-- [![Build Status](https://travis-ci.org/salesfly/salesfly-php.svg?branch=master)](https://travis-ci.org/salesfly/salesfly-php) -->
 
 <!--[![codecov](https://codecov.io/gh/salesfly/salesfly-php/branch/master/graph/badge.svg)](https://codecov.io/gh/salesfly/salesfly-php)-->
 
-PHP client for [Salesfly API](https://salesfly.com)&reg;
+PHP client for [Salesfly API](https://salesfly.com)&reg;. This client works with [Salesfly e-commerce](https://salesfly.com) and [SalesflyPDF](https://salesflypdf.com).
 
 ## Documentation
 
-See the [PHP API docs](https://docs.salesfly.com/php/).
+See the [PHP API docs](https://developers.salesfly.com/php/).
 
 ## Installation
 
